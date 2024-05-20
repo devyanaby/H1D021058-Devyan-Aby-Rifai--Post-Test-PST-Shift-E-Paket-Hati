@@ -1,0 +1,15 @@
+Nama : Devyan Aby Rifai
+NIM : H1D021058
+Post test Prak PST
+
+1.Servo bekerja dengan menerima sinyal PWM untuk menentukan posisi yang diinginkan, membandingkan sinyal ini dengan posisi aktual yang diukur oleh potensiometer, dan menggunakan sirkuit kontrol untuk menggerakkan motor sehingga posisi aktual sesuai dengan posisi yang diinginkan. Proses ini memungkinkan servo untuk memberikan kontrol posisi yang presisi dan cepat, membuatnya sangat berguna dalam berbagai aplikasi teknik dan industri.
+
+2. LED (Light Emitting Diode) bekerja dengan memanfaatkan prinsip elektroluminesensi, di mana dua lapisan semikonduktor tipe P dan N bertemu. Ketika arus listrik mengalir melalui LED, elektron dari lapisan N dan hole dari lapisan P bertemu di daerah junction, melepaskan energi dalam bentuk foton (cahaya). Cahaya ini dipancarkan dengan warna yang tergantung pada material semikonduktor yang digunakan. LED menghasilkan cahaya terang dan efisien dengan konsumsi daya yang rendah.
+
+3. a. Medical Devices > Glukometer yang memantau kadar gula darah dan mengirimkan data ke aplikasi kesehatan, alat pacu jantung yang mengatur detak jantung, dan pompa insulin yang mengatur dosis insulin secara otomatis berdasarkan kebutuhan pasien.
+b. Smart Appliances > Contoh: Mesin cuci yang dapat diatur jadwalnya melalui aplikasi smartphone, kulkas pintar yang memantau stok makanan dan mengirimkan notifikasi saat bahan makanan perlu dibeli, dan oven pintar yang dapat diprogram untuk memasak makanan secara otomatis.
+c. Smart Home Automation > Contoh: Lampu otomatis yang menyala saat ada gerakan, termostat pintar yang mengatur suhu ruangan berdasarkan preferensi pengguna, dan sistem pengendalian tirai otomatis berdasarkan intensitas cahaya matahari.
+d.  Sistem Keamanan Rumah > Menggunakan kamera yang terhubung dengan mikrokontroler untuk merekam video saat sensor gerak mendeteksi pergerakan. Mikrokontroler juga dapat mengirim streaming video secara real-time ke perangkat pemilik.
+e. Pengontrol Lampu Otomatis > Sistem otomatisasi untuk mengontrol pencahayaan di rumah atau kantor.
+
+4. project yg akan kami buat yaitu membuat system keamanan menggunakan fingerprint
