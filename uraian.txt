@@ -12,4 +12,7 @@ c. Smart Home Automation > Contoh: Lampu otomatis yang menyala saat ada gerakan,
 d.  Sistem Keamanan Rumah > Menggunakan kamera yang terhubung dengan mikrokontroler untuk merekam video saat sensor gerak mendeteksi pergerakan. Mikrokontroler juga dapat mengirim streaming video secara real-time ke perangkat pemilik.
 e. Pengontrol Lampu Otomatis > Sistem otomatisasi untuk mengontrol pencahayaan di rumah atau kantor.
 
-4. project yg akan kami buat yaitu membuat system keamanan menggunakan fingerprint
+4. project yg akan kami buat yaitu KUNCI PINTU CERDAS BERBASIS SIDIK JARI
+- Sistem hanya akan mendukung penggunaan sidik jari sebagai metode otentikasi.
+- Rancangan ini hanya melibatkan penggunaan Arduino UNO, modul relay, dan solenoid door lock.
+- Sistem ini dirancang untuk penggunaan dalam lingkungan dengan kondisi listrik stabil dan tidak mempertimbangkan penggunaan sumber energi alternatif atau baterai.
